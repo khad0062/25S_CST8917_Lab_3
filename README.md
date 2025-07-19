@@ -27,7 +27,7 @@ This project implements a Microsoft Teams chat content moderation service using 
    - This is done using a condition that searches for these keywords in the message content.
 
 5. **Send Email Notification (If Violation Detected)**
-   - If a violation is found, the Logic App sends a high-importance email to the administrator (e.g., khadkan1023@gmail.com).
+   - If a violation is found, the Logic App sends a high-importance email to the administrator.
    - The email includes:
      - The offending message content
      - The sender’s display name
