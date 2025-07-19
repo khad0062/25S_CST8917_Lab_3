@@ -7,6 +7,7 @@ This project implements a Microsoft Teams chat content moderation service using 
 
 
 ## Moderation Workflow Flowchart    
+<img width="636" height="701" alt="Logic App Flowchart" src="https://github.com/user-attachments/assets/b7fc6240-46b2-464e-9715-9852f69b87ac" />
 
 ---
 
