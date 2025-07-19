@@ -4,7 +4,10 @@
 This project implements a Microsoft Teams chat content moderation service using Azure Logic Apps. The service monitors Teams chat messages for inappropriate content and automatically triggers email notifications when a policy violation is detected. This implementation uses only Logic Apps, without Azure Functions or Cognitive Services.
 
 ---
+## Demo Video
+[Watch the demo on YouTube](YOUR_DEMO_VIDEO_LINK)
 
+---
 
 ## Moderation Workflow Flowchart    
 <img width="636" height="701" alt="Logic App Flowchart" src="https://github.com/user-attachments/assets/b7fc6240-46b2-464e-9715-9852f69b87ac" />
