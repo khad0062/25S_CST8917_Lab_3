@@ -5,7 +5,7 @@ This project implements a Microsoft Teams chat content moderation service using 
 
 ---
 ## Demo Video
-[Watch the demo on YouTube](YOUR_DEMO_VIDEO_LINK)
+[Watch the demo on YouTube](https://youtu.be/BFXUKKQliZ0)
 
 ---
 
